@@ -4,3 +4,71 @@ height: 1920px;
 width: 1080px;
 background-repeat: no-repeat;
 }
+.navigation{
+position: fixed;
+bottom: 0px;
+right: 0px;
+display: flex;
+gap: 10px;
+padding: 10px;
+top: 25px;
+}
+
+.social{
+position: fixed;
+bottom: 0px;
+right: 0px;
+display: flex;
+gap: 40px;
+}
+.container{
+align-items: center;
+padding: 20px;
+
+}
+
+.outer-container{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100%;
+}
+html, body{
+height: 100%;
+margin: 0px;
+justify-content: center;
+align-items: center;
+display: flex;
+margin: 0px;
+
+}
+.Logo{
+position: absolute;
+top: 0px;
+left: 0px;
+padding: 20px;
+}
+h1{
+text-align: center;
+color: #FFFFFF;
+font-size: 80px;
+font-family: Marriweather;
+line-height: 1px;
+}
+ p{
+
+    text-align: center;
+    color: #FFFFFF;
+    font-family: Hoefler Text;
+    font-size: 30px;
+    line-height: 35px;
+ }
+ .button{
+
+
+
+ }
+.Linea3{
+max-width: 388px;
+color: #FFFFFF;
+}
