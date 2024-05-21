@@ -72,3 +72,35 @@ line-height: 1px;
 max-width: 388px;
 color: #FFFFFF;
 }
+
+.button {
+   background-color: #FFFFFF;
+   padding: 0;
+   border: none;
+   text-align: center;
+   font-size: 30px;
+   font-family: Merriweather;
+   width: 388px;
+   height: 64px;
+   display: inline-block;
+line-height: 30px;
+cursor: pointer;
+display: flex;
+line-height: 64px;
+top: 70%;
+left: 50%;
+transform: translate(-50%, -50%);
+position: absolute;
+text-align: center;
+border-radius: 15px;
+color: rgb(9, 12, 108);
+justify-content: center;
+align-items: center;
+
+
+}
+
+.button:hover{
+background-color: gray;
+
+}
